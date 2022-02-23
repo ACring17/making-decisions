@@ -8,7 +8,7 @@
 
 //CODE HERE
 let lovesCode = true;
-if lovesCode = true {
+if (lovesCode = true) {
     console.log("I love to code!");
 } else {
     console.log("Coding has its challenges.")
