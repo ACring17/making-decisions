@@ -88,11 +88,11 @@ let rain = true
 */
 
 //CODE HERE
-for (i = 0; i < 10; i++) {
-    if (i < 10) {
-        console.log("log " + i)
-    }
-}
+// for (i = 0; i <= 10; i++) {
+//     if (i <= 10) {
+//         console.log("log " + i)
+//     }
+// }
 
 ////////// PROBLEM 7 //////////
 
@@ -101,6 +101,12 @@ for (i = 0; i < 10; i++) {
 */
 
 //CODE HERE
+for (i = 10; i >= 0; i--) {
+    if (i >= 0) {
+        console.log("log " + i)
+    }
+}
+
 
 let score = 0
 let passingScore = 7
