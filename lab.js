@@ -75,11 +75,11 @@ let rain = true
 */
 
 //CODE HERE
-for (i = 0; i < 10; i++) {
-    if (i < 10) {
-        console.log('hello')
-    }
-}
+// for (i = 0; i < 10; i++) {
+//     if (i < 10) {
+//         console.log('hello')
+//     }
+// }
 
 ////////// PROBLEM 6 //////////
 
@@ -88,7 +88,11 @@ for (i = 0; i < 10; i++) {
 */
 
 //CODE HERE
-
+for (i = 0; i < 10; i++) {
+    if (i < 10) {
+        console.log("log " + i)
+    }
+}
 
 ////////// PROBLEM 7 //////////
 
